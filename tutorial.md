@@ -1,19 +1,25 @@
 ---
 layout: article
 title: "Tutorial #6: Methods from Data Science for Model Simulation, Analysis, and Visualization"
-tags: tutorial
+# tags: tutorial
 sharing: true
-comment: true
-toc: true
+aside:
+  toc: true
+sidebar:
+  nav: layouts
+key: page-tutorial
+pageview: true
 ---
 
 **Organizers:** Dr. Cengiz Gunay and Dr. Anca Doloc-Mihu <br>
 School of Science and Technology, Georgia Gwinnett College, USA
 
+**Tutorial time:**
+
 |-|-|-|-|-|
 |Time zone: | Los Angeles | New York | Berlin | Sydney |
 |- 
-| **Tutorial time:** | 10am - 1pm | 1 - 4pm | 7 - 10pm | 3 - 6am |
+| July 18, 2020 | 10am - 1pm | 1 - 4pm | 7 - 10pm | 3 - 6am (July 19) |
 
 [All CNS*2020 Tutorials](https://www.cnsorg.org/cns-2020-tutorials)
 
@@ -56,3 +62,4 @@ TBA
 | 1st hour | Cengiz Gunay    | From High Performance Computing to Hadoop and Spark |
 | 2nd hour | Anca Doloc-Mihu | High-dimensional data visualizations  |
 | 3rd hour | Hieu Dinh, Joshua Walton | Analysim.org: data sharing for crowdsourced-analysis of parameter-search datasets  |
+
