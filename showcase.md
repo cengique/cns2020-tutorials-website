@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Software showcase #3: Advances in the PANDORA Matlab Toolbox for intracellular electrophysiology data"
+title: "Showcase #3: Advances in the PANDORA Matlab Toolbox for intracellular electrophysiology data"
 sharing: true
 aside:
   toc: true
