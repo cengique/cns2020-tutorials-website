@@ -61,5 +61,5 @@ TBA
 |- 
 | 1st hour | Cengiz Gunay    | From High Performance Computing to Hadoop and Spark |
 | 2nd hour | Anca Doloc-Mihu | High-dimensional data visualizations  |
-| 3rd hour | Hieu Dinh, Joshua Walton | Analysim.org: data sharing for crowdsourced-analysis of parameter-search datasets  |
+| 3rd hour | Hieu Dinh, Joshua Walton, Anthony Morariu | Analysim.org: data sharing for crowdsourced-analysis of parameter-search datasets  |
 
