@@ -63,5 +63,5 @@ TBA
 | 00:50 | | Break
 | 01:00 | Anca Doloc-Mihu | High-dimensional data visualizations  |
 | 01:50 | | Break
-| 02:00 | Hieu Dinh, Joshua Walton, Anthony Morariu | Analysim.org: A data sharing site for crowdsourcing analysis of parameter-search datasets  |
+| 02:00 | Hieu Dinh, Joshua Walton, Anthony Morariu | Analysim.tech: A data sharing site for crowdsourcing analysis of parameter-search datasets  |
 | 02:50 | | Break before next session
