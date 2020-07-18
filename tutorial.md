@@ -48,9 +48,10 @@ Javascript and Python.
 - [Apache Hadoop](https://hadoop.apache.org/)
 - [Apache Spark](https://spark.apache.org/)
 
-### Background readings
+### Expected knowledge/materials
 
-TBA
+- Some familiarity with Python, Javascript, HTML
+- For the visualization session: Google Account suggested to use the online Jupyter notebook service at [Colab](colab.research.google.com/)
 
 <!--more-->
 
@@ -61,7 +62,7 @@ TBA
 |- 
 | 00:00 | Cengiz Gunay    | From High Performance Computing to Hadoop and Spark ([slides](https://cengique.github.io/course-adv-data-analytics/cns-spark-tutorial.html)) |
 | 00:50 | | Break
-| 01:00 | Anca Doloc-Mihu | High-dimensional data visualizations  |
+| 01:00 | Anca Doloc-Mihu | High-dimensional data visualizations  ([slides and materials](TutorialDataViz.zip)) |
 | 01:50 | | Break
 | 02:00 | Hieu Dinh, Joshua Walton, Anthony Morariu | Analysim.tech: A data sharing site for crowdsourcing analysis of parameter-search datasets  |
 | 02:50 | | Break before next session
