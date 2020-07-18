@@ -85,10 +85,12 @@ those who may be interested in adding modules to this toolbox.
 
 ### Download materials
 
-TBA
+- [Slides](present-pandora-updates.pdf)
 
 ### Showcase organization
 
-TBA
+1. Pandora introduction and updates
+2. Tutorials and demo examples
+3. Q & A feedback
 
 
