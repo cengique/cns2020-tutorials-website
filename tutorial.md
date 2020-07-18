@@ -64,5 +64,5 @@ Javascript and Python.
 | 00:50 | | Break
 | 01:00 | Anca Doloc-Mihu | High-dimensional data visualizations  ([slides and materials](TutorialDataViz.zip)) |
 | 01:50 | | Break
-| 02:00 | Hieu Dinh, Joshua Walton, Anthony Morariu | Analysim.tech: A data sharing site for crowdsourcing analysis of parameter-search datasets  |
+| 02:00 | Hieu Dinh, Joshua Walton, Anthony Morariu | Analysim.tech: A data sharing site for crowdsourcing analysis of parameter-search datasets ([slides](https://ggcedu-my.sharepoint.com/:p:/g/personal/hdinh3_ggc_edu/ETRC3EF0VCtPoqVxkJaV680BK1c2Ahfcfeg1V79ZBXR3Mg?e=NZCFX8) and [demo site](https://www.analysim.tech/)) |
 | 02:50 | | Break before next session
