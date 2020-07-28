@@ -23,6 +23,8 @@ School of Science and Technology, Georgia Gwinnett College, USA
 
 [All CNS*2020 Tutorials](https://www.cnsorg.org/cns-2020-tutorials)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-VeiNaAO5kg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Description of the tutorial
 
 Computational neuroscience projects often involve large number of
