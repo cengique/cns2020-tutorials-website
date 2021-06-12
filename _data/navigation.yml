@@ -1,11 +1,7 @@
 header:
   - titles:
-      en      : &EN       Tutorial
-    url: /tutorial.html
-
-  - titles:
-      en      : &EN       Showcase
-    url: /showcase.html
+      en      : &EN       CNS*2021
+    url: /archive.html?tag=cns*2021
 
   - titles:
       # @start locale config
