@@ -24,7 +24,6 @@ title   : CNS*2020 Tutorials and Showcase
 description: > # this means to ignore newlines until "Language & timezone"
   Web materials for CNS*2020 tutorials by Dr Cengiz Gunay and Dr Anca Doloc-Mihu.
 
-
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, default as "en"
@@ -129,8 +128,8 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : '151c4fcba5b6a84cbd21' # GitHub Application Client ID
-    clientSecret: '0fe60edc7095b2719d77010525cef22987f0730b' # GitHub Application Client Secret
+    clientID    : '2977e51718b15aa9d9c7' # GitHub Application Client ID
+    clientSecret: 'c3b5792b46669c3ade9b2c7987176dab22dcd732' # GitHub Application Client Secret
     repository  : 'cns2020-tutorials-website' # GitHub repo
     owner       : 'cengique' # GitHub repo owner
     admin: [ "cengique" ] # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
@@ -185,6 +184,7 @@ markdown    : kramdown
 highlighter : rouge
 permalink   : date
 
+
 exclude:
   - CHANGELOG.md
   - HOW_TO_RELEASE.md
@@ -217,6 +217,10 @@ defaults:
       show_subscribe: true
       pageview: true
 
+#collections_dir: myc
+#collections:
+#  cns2020:
+#    output: true
 
 ## => Plugins
 ##############################
