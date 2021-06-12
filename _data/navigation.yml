@@ -1,7 +1,7 @@
 header:
   - titles:
       en      : &EN       CNS*2021
-    url: /archive.html?tag=cns*2021
+    url: /cns2021.html
 
   - titles:
       # @start locale config
