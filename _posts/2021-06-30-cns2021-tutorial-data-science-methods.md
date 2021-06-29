@@ -66,8 +66,10 @@ technologies based on Javascript
 | NY Time | Speaker | Schedule item | 
 |- 
 | 8:00 am | Cengiz Gunay    | From High Performance Computing to Hadoop and Spark  |
-| 9:15 am | | Discussion & Break
-| 9:30 am | Anca Doloc-Mihu | High-dimensional data visualizations  |
-| 10:45 am | | Discussion & Break
+| 9:00 am | | Practice & discussion 
+| 9:30 am | | Break
+| 9:45 am | Anca Doloc-Mihu | High-dimensional data visualizations  |
+| 11:00 am | | Practice & discussion
+| 11:30 am | | End of tutorial
 
 [See all CNS*2021 Tutorials here](https://www.cnsorg.org/cns-2021-tutorials){:target="_blank"}
