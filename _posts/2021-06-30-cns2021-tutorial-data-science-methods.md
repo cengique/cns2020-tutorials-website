@@ -15,7 +15,7 @@ pageview: true
 Dr. Cengiz Gunay and Dr. Anca Doloc-Mihu <br>
 School of Science and Technology, Georgia Gwinnett College, USA
 
-### Tutorial schedule:
+### Tutorial time:
 
 |-|-|-|-|-|
 |Time zone: | Los Angeles | New York | Berlin | Sydney |
@@ -65,7 +65,7 @@ technologies based on Javascript
 |-|-|
 | NY Time | Speaker | Schedule item | 
 |- 
-| 8:00 am | Cengiz Gunay    | From High Performance Computing to Hadoop and Spark  |
+| 8:00 am | Cengiz Gunay    | From High Performance Computing to Hadoop and Spark ([slides](https://cengique.github.io/course-adv-data-analytics/cns-spark-tutorial-2021.html))  |
 | 9:00 am | | Practice & discussion 
 | 9:30 am | | Break
 | 9:45 am | Anca Doloc-Mihu | High-dimensional data visualizations  |
