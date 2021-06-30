@@ -26,13 +26,17 @@ School of Science and Technology, Georgia Gwinnett College, USA
 ### Draft schedule
 
 |-|-|
-| NY Time | Schedule item (**10 minute break** at end of each session) | 
+| NY Time | Sessions with 5 minute break between | 
 |- 
 | 3:00 pm | Introduction & installation
-| 4:00 pm | Practice: Signal processing 
-| 4:45 pm | Practice: Tabular analysis 
-| 5:30 pm | Practice: Plotting 
+| 3:45 pm | Practice: Signal processing 
+| 4:30 pm | Practice: Tabular analysis 
+| 5:15 pm | Practice: Plotting 
 | 6:00 pm | End of tutorial
+
+### Download materials
+
+- [Slides]({{ "/assets/present-pandora-tutorial-cns2021.pdf" | relative_url }})
 
 <!--more-->
 
@@ -74,7 +78,8 @@ features and show how to customize them for a given project.
 
 ### Software tools:
 
-- PANDORA toolbox
+- Matlab
+- PANDORA - [Github](https://github.com/cengique/pandora-matlab) and [MathWorks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/60237-cengique-pandora-matlab) pages
 
 ### References:
 
