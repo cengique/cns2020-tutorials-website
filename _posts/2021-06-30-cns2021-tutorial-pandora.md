@@ -16,6 +16,8 @@ pageview: true
 Dr. Cengiz Gunay<br>
 School of Science and Technology, Georgia Gwinnett College, USA
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q7Gc-Dq48Yw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Tutorial time:
 
 |-|-|-|-|-|
