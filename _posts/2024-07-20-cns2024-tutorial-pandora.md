@@ -30,11 +30,12 @@ Dept. Information Technology, School of Science and Technology, Georgia Gwinnett
 |-|-|
 | Time | Sessions with 5 minute break between | 
 |- 
-| 3:00 pm | Introduction & installation
-| 3:45 pm | Practice: Signal processing 
-| 4:30 pm | Practice: Tabular analysis 
-| 5:15 pm | Practice: Plotting 
-| 6:00 pm | End of tutorial
+|  9:00 am | Introduction & installation
+|  9:30 am | Practice: Signal processing 
+| 10:15 am | Coffee Break
+| 10:45 am | Practice: Tabular analysis 
+| 11:30 am | Practice: Plotting 
+| 12:15 am | End of tutorial
 
 ### Download materials
 
